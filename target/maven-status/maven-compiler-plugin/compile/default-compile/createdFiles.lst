@@ -1,0 +1,5 @@
+com\training\exception\InvalidPhoneNumberException.class
+com\training\model\Contact.class
+com\training\services\PhoneBook.class
+com\training\test\PhoneBookApp.class
+com\training\exception\InvalidNameException.class
